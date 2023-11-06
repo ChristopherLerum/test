@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.*;
 
-public class ArrayTests {
+public class myArrayTests {
         @Test
         public void testReverseInPlace() {
     int[] input1 = {  1,2,3 };
